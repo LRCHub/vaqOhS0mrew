@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビリビリのーん",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:50:41.716243Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビリビリのーん",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ビリビリのーん_NEE.txt"
+    }
+  ]
+}
